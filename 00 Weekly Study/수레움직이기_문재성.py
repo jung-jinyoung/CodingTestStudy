@@ -1,7 +1,3 @@
-## 개인 알고리즘 작성 
-> 문제 코드 업로드 후 삭제할 수 있습니다.
-### 수레 움직이기
-```python
 from collections import deque
 from copy import deepcopy
 
@@ -83,5 +79,3 @@ def solution(maze):
                                             new_v_b[blue_ni][blue_nj] = 1
                                             q.append(((red_ni, red_nj), (blue_ni, blue_nj), new_v_r, new_v_b, cnt+1))
     return 0  # 두 색 모두 목표 지점에 도달할 수 없을 때
-
-```
