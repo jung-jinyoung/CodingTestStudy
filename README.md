@@ -46,7 +46,6 @@ Hello World !!!
 | 일정          | 출제자  | 설명                | 1    |2   |3    |
 |---------------|---------|---------------------|----------|----------|----------|
 | 1주차 (6.1~6.8) | 문재성 | 프로그래스 입문하기 | [수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134)| [에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/250134) ||
-|---------------|---------|---------------------|----------|----------|----------|
 | 2주차 (6.9~6.17) | 신희진 | 2024 KAKAO | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709) | [n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) | [산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) |
 
 
