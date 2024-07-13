@@ -70,3 +70,34 @@ def solution(money):
     
     return max(case1, case2)
     ```
+
+# 07.08 java코드 추가
+---
+    java코드는 리스트 슬라이싱이 없으므로 어레이 두개 만들기 
+
+```java
+
+class Solution {
+    public int solution(int[] money) {
+        
+        // money의 0선택하고 -1선택 안하기 , 0선택안하기
+        
+        int n = money.length;
+        int[] case1 = new int[n];
+        case1[0] = case1[1] = money[0];
+        
+        
+        int[] case2 = new int[n];
+        case2[0] = 0;
+        case2[1] = money[1];
+        
+        for (int i=2; i<n; i++){
+            case1[i] = Math.max(case1[i-2]+money[i], case1[i-1]);
+            case2[i] = Math.max(case2[i-2]+money[i], case2[i-1]);
+        }
+        
+        int answer = Math.max(case1[n-2], case2[n-1]);
+        return answer;
+    }
+}
+```

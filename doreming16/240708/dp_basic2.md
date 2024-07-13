@@ -1,6 +1,6 @@
 240704
 
-백준 그룹 [DP 기초] 문제집 풀기
+# 백준 그룹 [DP 기초] 문제집 풀기
 https://www.acmicpc.net/group/workbook/view/20735/70521
 
 ## 11052. 카드 구매하기

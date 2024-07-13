@@ -17,7 +17,14 @@ Hello World !!!
 - 좋은 문제 리스트를 찾았을 경우 언제든지 공유할 수 있습니다!🤗
     - `📍 문제 목록`에 링크 등 수록 부탁드립니다!
 - 알고리즘 관련된 궁금한 점이나 자료구조 등 의논이 필요한 경우 자유롭게 디스코드 등을 통해 이야기해주세요!
-
+- `페어 프로그램 진행 🏓` 
+    - `24.07.08 기준 멤버 증원(+4명)으로 인한 스터디 운영 변경`
+    - **스터디 참여율을 높이고** 역량 향상에 **직접적인 도움**을 주기 위한 페어 프로그램을 진행합니다.
+    - 많은 인원이 스터디를 참여하고 있기 때문에, 참여율이 저조하지 않기를 바라면서 페어를 정해보았습니다!
+    - 멘토, 멘티와 같은 딱딱한 상하 관계가 아닌 서로가 모르는 부분이 있으면 알려주고, 격려하고 이끌어주세요! 😇
+    - ####  `24.07.08 ~ 24.08.19` 페어 안내 : 디스코드 확인 
+      
+<br>
 <hr>
 
 ### 스터디 소통 정리
@@ -49,7 +56,8 @@ Hello World !!!
 | 2주차 (6.9~6.17)  | 신희진 | 2024 KAKAO | [주사위 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/258709)  | [n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707) | [산 모양 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/258705) |
 | 3주차 (6.18~6.24) | 이소희 |월간코드챌린지3| [n^2배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | [공이동시뮬레이션](https://school.programmers.co.kr/learn/courses/30/lessons/87391)|[금과은운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)|
 | 4주차 (6.25~7.1)  | 이찬규 |카카오X건축| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)|[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|
-| 5주차 (7.2~7.8)  | 이한솔 |DP| [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)||
+| 5주차 (7.2~7.8)  | 이한솔 |DP| [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)|
+| 6주차 (7.9~7.15)  | 이현복 | DP 2 | [단어퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983) | [매출 하락 최소화](https://school.programmers.co.kr/learn/courses/30/lessons/72416)||
 
 <hr>
 
