@@ -58,6 +58,7 @@ Hello World !!!
 | 4주차 (6.25~7.1)  | 이찬규 |카카오X건축| [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | [기둥과 보 설치](https://school.programmers.co.kr/learn/courses/30/lessons/60061)|[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|
 | 5주차 (7.2~7.8)  | 이한솔 |DP| [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)|
 | 6주차 (7.9~7.15)  | 이현복 | DP 2 | [단어퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983) | [매출 하락 최소화](https://school.programmers.co.kr/learn/courses/30/lessons/72416)||
+| 7주차 (7.16~7.22)  | 장지현 | LV 2 하나 4 하나 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)||
 
 <hr>
 
