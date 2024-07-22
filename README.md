@@ -59,6 +59,7 @@ Hello World !!!
 | 5주차 (7.2~7.8)  | 이한솔 |DP| [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897) | [사칙연산](https://school.programmers.co.kr/learn/courses/30/lessons/1843)|
 | 6주차 (7.9~7.15)  | 이현복 | DP 2 | [단어퍼즐](https://school.programmers.co.kr/learn/courses/30/lessons/12983) | [매출 하락 최소화](https://school.programmers.co.kr/learn/courses/30/lessons/72416)||
 | 7주차 (7.16~7.22)  | 장지현 | LV 2 하나 4 하나 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [호텔 방 배정](https://school.programmers.co.kr/learn/courses/30/lessons/64063)||
+| 8주차 (7.23~7.29)  | 정진영 | 괄호 뿌수기(자료구조 복습) | [괄호의 값](https://www.acmicpc.net/problem/2504) | [괄호 제거](https://www.acmicpc.net/problem/2800)|*챌린지!* [후위 표기식](https://www.acmicpc.net/problem/1918)|
 
 <hr>
 
@@ -95,3 +96,12 @@ Hello World !!!
 > `그래프 기초부터 기출 유형까지` 단계별로 정리되어있습니다.
 - [그래프 기초~연습](https://www.acmicpc.net/group/workbook/view/20735/70522)
 - [그래프 완전 정복](https://www.acmicpc.net/group/workbook/view/20735/70525)
+
+<hr>
+
+#### 24.07.22 자료구조 코딩 테스트 준비 문제집(백준)
+> [백준 코딩 테스트 준비](https://github.com/tony9402/baekjoon) 자료구조 부분을 참고하여 작성하였습니다.
+> 큐, 스택, 덱을 익히는 문제들로 구성되어 있으며, 추천 문제는 다음과 같습니다.
+> <img width="546" alt="image" src="https://github.com/user-attachments/assets/856effef-1bd8-4605-8a0a-8e5721476c04">
+
+> https://www.acmicpc.net/workbook/view/6779
