@@ -101,7 +101,7 @@ Hello World !!!
 
 #### 24.07.22 자료구조 코딩 테스트 준비 문제집(백준)
 > [백준 코딩 테스트 준비](https://github.com/tony9402/baekjoon) 자료구조 부분을 참고하여 작성하였습니다.
-> 큐, 스택, 덱을 익히는 문제들로 구성되어 있으며, 추천 문제는 다음과 같습니다.
+> 큐, 스택, 덱을 익히는 문제들로 구성되어 있으며, 추천 문제는 다음과 같습니다. <br>
 > <img width="546" alt="image" src="https://github.com/user-attachments/assets/856effef-1bd8-4605-8a0a-8e5721476c04">
 
 > https://www.acmicpc.net/workbook/view/6779
